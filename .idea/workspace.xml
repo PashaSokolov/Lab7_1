@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b4c9748-3e3c-4463-b7a0-d0f3df6d1f18" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1eBHvh3EyRmxGtD4EXkn5qO84E4" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b4c9748-3e3c-4463-b7a0-d0f3df6d1f18" name="Default Changelist" comment="" />
+      <created>1593788297627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593788297627</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="121" y="0" key="#Project_Structure" timestamp="1593796897130">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1593796897130" />
+    <state x="365" y="30" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1593796881628">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="365" y="30" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.680@0.0.1280.680" timestamp="1593796881628" />
+    <state x="740" y="99" key="FileChooserDialogImpl" timestamp="1593796438669">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="740" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1593796438668" />
+    <state width="1237" height="165" key="GridCell.Tab.0.bottom" timestamp="1593796468964">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="165" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1593796468964" />
+    <state width="1237" height="165" key="GridCell.Tab.0.center" timestamp="1593796468963">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="165" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1593796468963" />
+    <state width="1237" height="165" key="GridCell.Tab.0.left" timestamp="1593796468963">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="165" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1593796468963" />
+    <state width="1237" height="165" key="GridCell.Tab.0.right" timestamp="1593796468964">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="165" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1593796468964" />
+    <state x="91" y="0" key="new project wizard" timestamp="1593796467019">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1593796467019" />
+  </component>
+</project>
